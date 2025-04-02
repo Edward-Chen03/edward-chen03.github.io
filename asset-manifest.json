@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.890077aa.js",
+    "main.js": "/static/js/main.1938ecbf.js",
     "static/media/EPSON002.png": "/static/media/EPSON002.5efccbd93f1ea81d671c.png",
-    "static/media/Resume.pdf": "/static/media/Resume.896ebbf3b3cfe81f3e78.pdf",
+    "static/media/Resume.pdf": "/static/media/Resume.aa52c79806132bba9ac8.pdf",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.890077aa.js.map": "/static/js/main.890077aa.js.map"
+    "main.1938ecbf.js.map": "/static/js/main.1938ecbf.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.890077aa.js"
+    "static/js/main.1938ecbf.js"
   ]
 }
